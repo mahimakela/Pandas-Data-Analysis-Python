@@ -1,0 +1,29 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-25681,1096,658,7,Electronics,,COD
+B-26055,5729,64,14,Furniture,Chairs,EMI
+,2927,146,8,Furniture,Bookcases,EMI
+B-26093,2847,712,8,Electronics,Printers,Credit Card
+B-25602,2617,1151,4,Electronics,Phones,Credit Card
+B-25881,2244,247,4,,Trousers,Credit Card
+B-25696,275,-275,4,Clothing,Saree,COD
+B-25687,387,,5,Clothing,Saree,UPI
+B-25643,50,-44,2,Clothing,Hankerchief,UPI
+B-25851,135,-54,5,Clothing,Kurti,COD
+B-25703,231,-190,9,Clothing,Hankerchief,COD
+B-25887,2125,-234,6,Electronics,Printers,EMI
+B-25923,3873,-891,6,Electronics,Phones,Credit Card
+B-25756,729,-492,5,Furniture,Bookcases,UPI
+B-25761,,1050,5,Furniture,Bookcases,Credit Card
+B-25655,6,-3,1,Clothing,,UPI
+B-25786,1854,433,5,Furniture,Bookcases,Credit Card
+B-26095,6,1,1,Clothing,Kurti,UPI
+B-25853,2093,721,5,Furniture,Chairs,Credit Card
+B-25735,7,-1,2,Clothing,Skirt,UPI
+B-25910,1622,-624,5,Furniture,Tables,Credit Card
+B-25950,1622,95,5,Electronics,Printers,
+,,,,,,
+B-25845,82,-33,4,Clothing,Kurti,COD
+B-26001,8,2,2,Clothing,Skirt,UPI
+B-25830,1954,782,3,Electronics,Phones,Credit Card
+B-25842,1543,370,8,Electronics,Printers,Credit Card
+B-25778,1506,-266,6,Electronics,Printers,Credit Card
